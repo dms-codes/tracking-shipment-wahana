@@ -1,6 +1,3 @@
-Here's a README.md file for your script:
-
-```markdown
 # Wahana Tracking Script
 
 This Python script allows you to track a Wahana shipment by providing its tracking number. It scrapes the tracking information from the Wahana website and displays the sender's and recipient's details, as well as the shipment's current status.
